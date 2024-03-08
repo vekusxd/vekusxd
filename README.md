@@ -11,7 +11,6 @@
 ![MongodDb](https://img.shields.io/badge/MongoDb-%233b3b3b?style=for-the-badge&logo=MongoDb)
 ![Linux](https://img.shields.io/badge/Linux-%233b3b3b?style=for-the-badge&logo=linux)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vekusxd&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vekusxd&layout=compact&theme=city_lights)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vekusxd&layout=donut&theme=city_lights&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
