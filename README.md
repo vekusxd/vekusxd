@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&pause=1000&random=false&width=435&lines=Gg+Nice+Try)](https://git.io/typing-svg)
+
 ### Languages and Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-%233b3b3b?style=for-the-badge&logo=C%2B%2B&logoColor=%235E97D0
 )
