@@ -9,8 +9,7 @@
 ![Conan](https://img.shields.io/badge/Conan-%233b3b3b?style=for-the-badge&logo=Conan)
 ![Sql](https://img.shields.io/badge/SQL-%233b3b3b?style=for-the-badge&logo=Postgresql)
 ![MongodDb](https://img.shields.io/badge/MongoDb-%233b3b3b?style=for-the-badge&logo=MongoDb)
-![Linux](https://img.shields.io/badge/Linux-%233b3b3b?style=for-the-badge&logo=linux
-)
+![Linux](https://img.shields.io/badge/Linux-%233b3b3b?style=for-the-badge&logo=linux)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
