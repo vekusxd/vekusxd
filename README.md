@@ -9,4 +9,11 @@
 ![Conan](https://img.shields.io/badge/Conan-%233b3b3b?style=for-the-badge&logo=Conan)
 ![Sql](https://img.shields.io/badge/SQL-%233b3b3b?style=for-the-badge&logo=Postgresql)
 ![MongodDb](https://img.shields.io/badge/MongoDb-%233b3b3b?style=for-the-badge&logo=MongoDb)
+![Linux](https://img.shields.io/badge/Linux-%233b3b3b?style=for-the-badge&logo=linux
+)
+![vscode](https://img.shields.io/badge/VsCode-%233b3b3b?style=for-the-badge&logo=VisualStudioCode&logoColor=blue
+)
 
+
+### Wasted time...
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vekusxd)](https://github.com/anuraghazra/github-readme-stats)
