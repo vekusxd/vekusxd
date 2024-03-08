@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&pause=1000&random=false&width=435&lines=Gg+Nice+Try)](https://git.io/typing-svg)
 
 ### Languages and Tools
@@ -13,7 +11,7 @@
 ![MongodDb](https://img.shields.io/badge/MongoDb-%233b3b3b?style=for-the-badge&logo=MongoDb)
 ![Linux](https://img.shields.io/badge/Linux-%233b3b3b?style=for-the-badge&logo=linux)
 
-
+### Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vekusxd&layout=compact&theme=city_lights)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vekusxd&layout=donut&theme=city_lights&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
