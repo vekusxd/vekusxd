@@ -12,6 +12,5 @@
 ![Linux](https://img.shields.io/badge/Linux-%233b3b3b?style=for-the-badge&logo=linux
 )
 
-
-### Wasted time...
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vekusxd)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
