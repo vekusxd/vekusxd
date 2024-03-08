@@ -14,3 +14,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vekusxd&layout=compact&theme=city_lights)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vekusxd&layout=donut&theme=city_lights&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake](https://github.com/vekusxd/vekusxd/blob/output/github-contribution-grid-snake-dark.svg)
