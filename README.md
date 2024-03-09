@@ -17,6 +17,13 @@
 ### Wasted Time
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vekusxd&layout=compact&theme=city_lights)
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   51 mins         ████████████████████████▒   97.73 %
+C++        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 ![snake](https://github.com/vekusxd/vekusxd/blob/output/github-contribution-grid-snake-dark.svg)
