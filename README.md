@@ -15,7 +15,11 @@
 
 
 ### Wasted Time
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vekusxd&theme=city_lights)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vekusxd&layout=compact&theme=city_lights&langs_count=8&card_width=410" />
+</a>
+
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vekusxd&theme=city_lights&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
