@@ -17,7 +17,7 @@
 ### Wasted Time
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vekusxd&layout=compact&theme=city_lights&langs_count=8&card_width=410" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vekusxd&layout=compact&theme=city_lights&langs_count=8&card_width=470" />
 </a>
 
 
